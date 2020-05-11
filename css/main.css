@@ -215,7 +215,7 @@ body {
     width: calc(100% - 100px);
     margin: 0;
     float: right;
-    padding: 16px 20px 16px 16px; /* по данному макету справа все же 20 пикселей*/
+    padding: 16px 20px 16px 16px;
     background-color: #ebebeb;
     border-radius: 5px;
 }
